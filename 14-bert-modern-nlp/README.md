@@ -1,6 +1,6 @@
-# Advanced Computer Vision
+# BERT & Modern NLP
 
-Workspace for **Advanced Computer Vision** in the Data Science, ML & AI Mastery curriculum.
+Workspace for **BERT & Modern NLP** in the Data Science, ML & AI Mastery curriculum.
 
 ## Status
 - [ ] Theory
