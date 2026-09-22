@@ -135,12 +135,6 @@ Not every small concept needs every file.
 
 **Regression → Classification → Model Evaluation → Feature Engineering → Ensemble ML → Unsupervised Learning → Practical Data Science → Deep Learning → Computer Vision → NLP → Attention → Transformers → BERT → LLMs → LLM Engineering → RAG → LangChain → Fine-Tuning → Agents → Data Engineering → MLOps → Cloud → Advanced AI/ML → System Design → Final Capstone**
 
-## Repository branches
-
-- `main` — stable completed curriculum
-- `development` — integration branch
-- Feature branches — individual sections and substantial pieces of work
-
 Current structuring work is being done on `structuring-repo-bychatgpt`.
 
 ## Goal
